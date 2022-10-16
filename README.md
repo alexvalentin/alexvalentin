@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvalentin&layout=compact)](https://github.com/alexvalentin/github-readme-stats)
 
+🌱 I’m currently learning at Politehnica University of Bucharest for master degree in Graphics, Multimedia and Virtual Reality.
 <!--
 **alexvalentin/alexvalentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
